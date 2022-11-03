@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# Designing and coding an industry-grade UI
+
+This github repo contains the output of [a workshop on UI design and dev](https://www.meetup.com/terminus/events/289027898/) which we hosted at [Terminus](https://terminus.money/). Here is a [recording of the workshop](https://www.youtube.com/watch?v=JkTPL55sd9k).
+
+First, we chatted for a bit about how a designer and developer might collaborate in a modern workflow.
+
+Then, we jumped into Figma to start building.
+
+We used [Bitcoin UI Kit](https://www.bitcoinuikit.com/) as a starting point. Here is the [cloned figma file](https://www.figma.com/file/mqXLrZOi7y6fZMvpgamrVE/Terminus-Workshop-UI?node-id=267%3A3873).
+
+The group agreed we should design the onboarding for a Taro compatible wallet, so we called it Tallet and built [this screen](https://www.figma.com/file/mqXLrZOi7y6fZMvpgamrVE/Terminus-Workshop-UI?node-id=3651%3A96939).
+
+Then, we implemented the first screen with code.
+
+We started with `npx create-react-app`. You can learn more at [create-react-app.dev](https://create-react-app.dev).
+
+Next, we installed [TailwindCSS](https://tailwindcss.com/) by following [these instructions](https://tailwindcss.com/docs/guides/create-react-app).
+
+After that, we installed [Bitcoin Icons](https://bitcoinicons.com/) by following [these instructions](https://www.npmjs.com/package/@bitcoin-design/bitcoin-icons-react).
+
+Finally, we created a `Button` component and constructed the Tallet screen in `App.js`.
+
+# Instructions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
