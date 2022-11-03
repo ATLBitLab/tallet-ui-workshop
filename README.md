@@ -1,5 +1,7 @@
 # Designing and coding an industry-grade UI
 
+![](public/workshop-ux-ui.jpg "Designing and coding an industry-grade UI")
+
 This github repo contains the output of [a workshop on UI design and dev](https://www.meetup.com/terminus/events/289027898/) which we hosted at [Terminus](https://terminus.money/). Here is a [recording of the workshop](https://www.youtube.com/watch?v=JkTPL55sd9k).
 
 First, we chatted for a bit about how a designer and developer might collaborate in a modern workflow.
